@@ -1,4 +1,4 @@
-public class Array05 {
+public class example05 {
 	public static void main(String[] args) {
 		int[] grade = new int[]{85, 65, 90};
 		int	sum = 0;

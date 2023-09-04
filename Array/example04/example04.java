@@ -1,4 +1,4 @@
-public class Array04 {
+public class example04 {
 	public static void main(String[] args) {
 		int[] grade = new int[]{85, 65, 90};
 		//길이가 3인 int형 배열을 선언과 동시에 초기화

@@ -1,4 +1,4 @@
-public class Array03 {
+public class example03 {
 	public static void main(String[] args) {
 		int[] grade1 = {70, 90, 80}; //배열의 선언과 동시에 초기화
 		int[] grade2 = new int[]{70, 90, 80}; //배열의 선언과 동시에 초기화
